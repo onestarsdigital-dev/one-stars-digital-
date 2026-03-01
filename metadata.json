@@ -1,0 +1,8 @@
+{
+  "name": "One Stars Digital",
+  "description": "A comprehensive business dashboard for digital entrepreneurs with AI-driven image analysis for payment verification and business growth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
